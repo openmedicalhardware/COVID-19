@@ -1,4 +1,3 @@
-# covid19
 # OPEN COVID-19 MEDICAL HARDWARE
 
 ## Door Handle
