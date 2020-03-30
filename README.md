@@ -1,7 +1,7 @@
 # OPEN MEDICAL HARDWARE
 This site contains design files for medical hardware to respond to the COVID-19 crisis.
 
-### Face Shield
+## Face Shield
 
 #### Face shield by Prusa
 - [Download design file](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1)
